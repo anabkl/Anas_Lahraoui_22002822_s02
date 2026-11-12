@@ -6,7 +6,7 @@ Ce dépôt contient **le TP de la séance 2**. Deux notebooks, à faire **dans l
 
 | | Notebook | Durée | Ouvrir dans Colab |
 |---|---|---|---|
-| **1** | **Partie 1 · Pratiquer** : 39 exercices en 9 séries, de votre premier tableau jusqu'aux fichiers | environ 2 h | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yelallioui/python-for-ds-s02/blob/main/tp-seance-02.ipynb) |
+| **1** | **Partie 1 · Pratiquer** : 39 exercices en 9 séries, de votre premier tableau jusqu'aux fichiers | environ 2 h | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yelallioui/python-for-ds-s02/blob/main/tp-seance-02.ipynb) | [![Open In Colab](https://colab.research.google.com/github/yelallioui/python-for-ds-s02/blob/main/tp-seance-02.ipynb#scrollTo=00000005)
 | **2** | **Partie 2 · Mini‑projet Titanic** : charger, interroger, écrire un CSV, puis découvrir les limites de NumPy | environ 45 min | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yelallioui/python-for-ds-s02/blob/main/mini-projet-02/mini-projet-02.ipynb) |
 
 ---
